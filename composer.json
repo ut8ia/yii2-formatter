@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "ut8ia\\formatter\\": "/"
+      "ut8ia\\yii2-formatter\\": "/"
     }
   },
   "minimum-stability": "dev",
