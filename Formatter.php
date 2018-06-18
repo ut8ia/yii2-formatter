@@ -1,6 +1,6 @@
 <?php
 
-namespace ut8ia\yii2-formatter;
+namespace ut8ia\yii2formatter;
 
 use yii\base\InvalidCallException;
 use yii\base\ViewNotFoundException;
@@ -8,7 +8,7 @@ use yii\web\View;
 
 /**
  * Class Formatter
- * @package ut8ia\yii2-formatter
+ * @package ut8ia\yii2formatter
  */
 class Formatter extends \yii\i18n\Formatter
 {
