@@ -1,0 +1,22 @@
+{
+  "name": "ut8ia/yii2-formatter",
+  "description": "formatter extension for easy represent objects",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Eugene Anufriev",
+      "email": "eugene.anufriev@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ut8ia\\formatter\\": "/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">5.3.4",
+  }
+}
